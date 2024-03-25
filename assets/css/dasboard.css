@@ -6,6 +6,7 @@
   }
   .detail {
     display: flex;
+<<<<<<< HEAD
     justify-content: start; /* Horizontal centering */
     align-items: center; /* Vertical centering */
     
@@ -14,4 +15,9 @@
   .content {
     width: 300px;
     margin: auto;
+=======
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    
+>>>>>>> 76eeea612567dce51cc2969bdb97d8b417e378f0
   }
